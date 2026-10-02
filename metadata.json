@@ -1,0 +1,6 @@
+{
+  "name": "대진전자통신고등학교 실시간 시간표 조회",
+  "description": "NEIS 오픈API 및 학사 데이터를 연동한 대진전자통신고등학교 날짜별·학급별 실시간 반응형 시간표 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
